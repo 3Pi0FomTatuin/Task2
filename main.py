@@ -2,7 +2,7 @@ import re
 import lib
 
 converter = lib.Converter()
-expr = '123445 + 123 = 1243'
+expr = '123445 + 123 = 123568'
 expr = expr.replace(' ', '')
 
 words = []
